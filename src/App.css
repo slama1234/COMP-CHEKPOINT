@@ -1,0 +1,18 @@
+
+body {
+  background-color: grey;
+ }
+.name{
+  color: blue;
+  position: relative;
+  
+}
+.adr{
+  color: red;
+  position: absolute;
+}
+.img{
+  align-items: center;
+  border-radius: 50%;
+
+}
